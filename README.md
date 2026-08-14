@@ -69,7 +69,5 @@
 ## HTML 動態簡報
 
 Claude Code 製作的 HTML 動態簡報範例
-線上瀏覽:https://klin0024.github.io/slide-visual-styles/
 
-- [index.html](docs/index.html) — 動態簡報本體(GitHub Pages 發布內容)
-- [啟賦_Illuma_競品分析簡報.pdf](docs/啟賦_Illuma_競品分析簡報.pdf) — 同內容的 PDF 靜態版本
+- [HTML 動態簡報](https://klin0024.github.io/slide-visual-styles/) — 套用[運動能量風]
