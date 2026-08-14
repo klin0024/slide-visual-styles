@@ -58,10 +58,17 @@
 2. 開啟該風格的 `.md` 檔案,複製「提示詞」完整內容
 3. 貼到 NotebookLM 簡報生成的說明欄位使用
 
-## docs 目錄
+## NotebookLM 簡報
 
-[`docs/`](docs) 存放一份由 Claude Code 製作的 HTML 動態簡報範例,透過 GitHub Pages 發布,線上瀏覽:https://klin0024.github.io/slide-visual-styles/
+同一份簡報原稿,套用本收藏庫中不同視覺風格提示詞後,由 NotebookLM 產出的實際簡報範例,可作為挑選風格時的成品參考。
+
+- [競品分析簡報_運動能量風.pdf](templates/競品分析簡報_運動能量風.pdf) — 套用[運動能量風](product-tech-showcase/sports-athletic-energy.md)產出的簡報範本
+- [競品分析簡報_銳角極簡風.pdf](templates/競品分析簡報_銳角極簡風.pdf) — 套用[銳角極簡風・精緻作品集](minimal-professional/sharp-edged-minimalism.md)產出的簡報範本
+
+## HTML 動態簡報
+
+Claude Code 製作的 HTML 動態簡報範例
+線上瀏覽:https://klin0024.github.io/slide-visual-styles/
 
 - [index.html](docs/index.html) — 動態簡報本體(GitHub Pages 發布內容)
-- [啟賦_Illuma_競品分析簡報.md](docs/啟賦_Illuma_競品分析簡報.md) — 簡報內容的 Markdown 原稿
 - [啟賦_Illuma_競品分析簡報.pdf](docs/啟賦_Illuma_競品分析簡報.pdf) — 同內容的 PDF 靜態版本
