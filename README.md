@@ -57,3 +57,11 @@
 1. 依需求情境挑選對應分類與風格
 2. 開啟該風格的 `.md` 檔案,複製「提示詞」完整內容
 3. 貼到 NotebookLM 簡報生成的說明欄位使用
+
+## docs 目錄
+
+[`docs/`](docs) 存放一份由 Claude Code 製作的 HTML 動態簡報範例,透過 GitHub Pages 發布,線上瀏覽:https://klin0024.github.io/slide-visual-styles/
+
+- [index.html](docs/index.html) — 動態簡報本體(GitHub Pages 發布內容)
+- [啟賦_Illuma_競品分析簡報.md](docs/啟賦_Illuma_競品分析簡報.md) — 簡報內容的 Markdown 原稿
+- [啟賦_Illuma_競品分析簡報.pdf](docs/啟賦_Illuma_競品分析簡報.pdf) — 同內容的 PDF 靜態版本
